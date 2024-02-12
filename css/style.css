@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #message-container {
-    background-color: plum;
+    background-color: slateblue;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.455);
     display: flex;
     justify-content: center;
